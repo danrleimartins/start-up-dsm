@@ -1,0 +1,23 @@
+h1{
+    transition: all 1s;
+}
+
+h1:hover {
+    transform: scale(1.1);
+}
+
+.discover {
+    transition: all 1s;
+}
+
+.discover:hover {
+    transform: scale(0.9);
+}
+
+.navigation {
+    transition: all 1s;
+}
+
+.navigation:hover {
+    transform: scale(1.1);
+}
